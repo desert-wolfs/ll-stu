@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+.svn
+.git
+logs
+target
+/target/
+*.iml
+.idea/
+.DS_Store
+
+.flattened-pom.xml
